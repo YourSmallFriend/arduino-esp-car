@@ -49,4 +49,3 @@ void loop() {
   Serial.println(valueY);
   delay(200);
 }
-
